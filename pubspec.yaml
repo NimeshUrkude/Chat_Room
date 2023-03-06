@@ -1,0 +1,26 @@
+name: Chat_room
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.7.0
+  firebase_auth: ^4.2.9
+  cloud_firestore: ^4.4.3
+  #package_name: ^version
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - image/
+  fonts:
+    - family: TiltNeon
+      fonts:
+        - asset: fonts/TiltNeon-Regular-VariableFont_XROT,YROT.ttf

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676317580122",
+    "project_id": "chat-app-9b46c",
+    "storage_bucket": "chat-app-9b46c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676317580122:android:fee38f773451d2a4b40163",
+        "android_client_info": {
+          "package_name": "com.nimesh_urkude.chat_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676317580122-vb2b7jpoik49368644tn7fjrc5a7jnk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGqSgc-6FemNL3VPV1Ktz5_pvpwPgSLHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676317580122-vb2b7jpoik49368644tn7fjrc5a7jnk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
